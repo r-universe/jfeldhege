@@ -1,7 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/jfeldhege/jfeldhege.r-universe.dev
 	branch = HEAD
 [submodule "openholidaysR"]
 	path = openholidaysR
-	url = https://github.com/jfeldhege/openholidaysr
+	url = https://github.com/jfeldhege/openholidaysR
